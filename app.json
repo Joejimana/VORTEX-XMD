@@ -20,11 +20,11 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Paste your Session ID after pairing the bot (required for authentication)",
+      "description": "HansTz&XX4HUD7R#R9CIlIQZiDCe_4AUYGjUGbly51YYhXWgYbGL7nlnIgc",
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "255760774888",
+      "description": "237677588087",
       "required": true
     }
   },
