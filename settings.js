@@ -8,7 +8,7 @@ botOwner: process.env.BOT_OWNER || 'Hans_Tz',
 
 Botprefix: process.env.PREFIX || '.',
   
-ownerNumber: process.env.OWNER_NUMBER || '255760774888',
+ownerNumber: process.env.OWNER_NUMBER || '237677588087',
   
 commandMode: process.env.COMMAND_MODE || "private",
    
